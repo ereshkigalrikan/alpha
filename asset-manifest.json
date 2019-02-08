@@ -1,10 +1,10 @@
 {
   "main.css": "/alpha/static/css/main.947adb52.chunk.css",
-  "main.js": "/alpha/static/js/main.6eb72c2a.chunk.js",
+  "main.js": "/alpha/static/js/main.e8974838.chunk.js",
   "static/js/1.513b692e.chunk.js": "/alpha/static/js/1.513b692e.chunk.js",
   "runtime~main.js": "/alpha/static/js/runtime~main.32bb58d1.js",
   "static/media/logo.svg": "/alpha/static/media/logo.5d5d9eef.svg",
   "index.html": "/alpha/index.html",
-  "precache-manifest.d2573df19c051ecd1012e4ea05b4f775.js": "/alpha/precache-manifest.d2573df19c051ecd1012e4ea05b4f775.js",
+  "precache-manifest.e285fce8aee5449401a4e517b92e0f6d.js": "/alpha/precache-manifest.e285fce8aee5449401a4e517b92e0f6d.js",
   "service-worker.js": "/alpha/service-worker.js"
 }
